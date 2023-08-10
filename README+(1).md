@@ -1,44 +1,52 @@
-# Project Name
-> Outline a brief description of your project.
+# BoomBikes Project Submission
+> Worked on BoomBikes case stude and created the model with manual and autmated approaches.
+> Used both Statsmodels and sklearn library to implement manula, automated and semi-auto approaches in creating the Model for BookBikes dataset,
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* Python file with all the code with model creation steps
+* PDF file for theory questions
+
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
+- Project has following steps
+- Data Dictionary/Characteristics
+- Data Dictionary/Characteristics
+- Loading Data (✓)
+- Data Preperation
+- Converting Binary states to 0 and 1 (yes/no, day/night, good/bad etc)
+- Creating dummy variables for string data ()
+- Data Visualization
+- pair plots
+- box plots
+- correlation heatmap
+- Splitting and Scalling data
+- Splitting into Training and Testing sets
+- Scaling data
+- Building Models
+- Residual Analysis of the train data
+- Making Predictions using test data
+- Model Evaluation
+- r^2_score
+- scatter platData Dictionary/Characteristics
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- statmodel
+- sklearn
+- pandas
+- matplotlib
+- seaborn
+- numpy
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- Thanks to all my teachers who made this project possible
 
 
 ## Contact
